@@ -3,7 +3,7 @@ import PageNav from "./PageNav";
 function AppNav() {
   return (
     <nav className={styles.nav}>
-      <PageNav />
+      This is the AppNav component, Here will be CITY & COUNTRIES
     </nav>
   );
 }
